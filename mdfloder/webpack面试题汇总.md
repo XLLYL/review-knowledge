@@ -120,7 +120,7 @@ webpack的热更新又称热替换（Hot Module Replacement），缩写为HMR。
 
 原理:
 
-![](/assets/webpack热更新.jpg)
+![](./assets/webpack热更新.jpg)
 
 首先要知道server端和client端都做了处理工作
 
